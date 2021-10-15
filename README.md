@@ -15,6 +15,6 @@ PackagesNotFoundError: The following packages are not available from current cha
  
  ModuleNotFoundError: No module named 'conf'
  
- ### Conclusion
+ ### What I made
  
- Anyway, I adapted the code and uploaded it in the repository. Also, I created /uploaded the empty files that should be delivered.
+ I adapted the code and uploaded it to the repository. Also, I created/uploaded the empty files that should be delivered.
