@@ -5,16 +5,16 @@ This robot gets information about "notary" on https://www.semanticscholar.org/ w
 
 Unfortunetely, I faced the following programming issues that prevented me from running the code:
 
-### first issue ###
+##### first issue 
 
 PackagesNotFoundError: The following packages are not available from current channels:
 
   - et-xmlfile==1.1.0
   
- ### second issue ###
+ ##### second issue
  
  ModuleNotFoundError: No module named 'conf'
  
- ###
+ ### Conclusion
  
- Anyway, I adatped the code and uploaded it in the repository.
+ Anyway, I adapted the code and uploaded it in the repository.
