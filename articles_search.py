@@ -16,7 +16,7 @@ from email.message import EmailMessage
 import smtplib
 from conf import query, num_page, receiver
 
-query_link = "https://www.semanticscholar.org/search?q=notary&sort=relevance&page="
+query_link = f"https://www.semanticscholar.org/search?q={query}&sort=relevance&page="
 
 # working paths
 working_dir = os.path.dirname(os.path.realpath(__file__))
